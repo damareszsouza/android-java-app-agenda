@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
     }
 }
 
-# exemplo com implementação ListView
+# exemplo com implementação ListView e new ArrayAdapter
 
 Utilize o componente ListView para implementar a lista de alunos no layout. Para isso, remova os TextViews, adicione o componente ListView e no código Java busque-o com o findViewById().
 
