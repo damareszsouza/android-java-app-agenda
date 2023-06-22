@@ -72,3 +72,8 @@ public class MainActivity extends Activity {
                 alunos));
     }
 }
+
+# coteudos abordados 
+adicionar Views via código Java e via arquivo estático;
+implementar layouts que apresentam listas;
+utilizar AdapterViews em específico o ListView.
